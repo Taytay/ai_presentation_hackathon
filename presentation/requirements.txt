@@ -1,0 +1,17 @@
+#nvidia-smi
+sentence_transformers
+#transformers
+pandas
+pydantic
+#InstructorEmbedding
+
+# For dev:
+plotly
+
+ipywidgets
+promptlayer
+openai
+python-dotenv
+marvin
+modal
+nbconvert
